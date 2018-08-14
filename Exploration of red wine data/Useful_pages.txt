@@ -1,0 +1,7 @@
+List of websites used for reference:
+
+1. https://stats.stackexchange.com/questions/18844/when-and-why-should-you-take-the-log-of-a-distribution-of-numbers
+2. https://wiki.anton-paar.com/en/concentration-determination-means-density-measurement/
+3. http://ggplot2.tidyverse.org
+4. https://stackoverflow.com
+5. http://data.princeton.edu/R/linearModels.html
